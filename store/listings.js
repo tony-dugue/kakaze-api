@@ -1,7 +1,7 @@
 const listings = [
   {
     id: 201,
-    title: "Red jacket",
+    title: "Blouson rouge",
     images: [{ fileName: "jacket1" }],
     price: 100,
     categoryId: 5,
@@ -13,7 +13,7 @@ const listings = [
   },
   {
     id: 3,
-    title: "Gray couch in a great condition",
+    title: "Canapé gris en très bon état",
     images: [{ fileName: "couch2" }],
     categoryId: 1,
     price: 1200,
@@ -25,9 +25,9 @@ const listings = [
   },
   {
     id: 1,
-    title: "Room & Board couch (great condition) - delivery included",
+    title: "Canapé (très bon état) - livraison incluse",
     description:
-      "I'm selling my furniture at a discount price. Pick up at Venice. DM me asap.",
+      "Je vends mes meubles à prix réduit. Prise en charge à Paris. Contactez-moi moi dès que possible.",
     images: [
       { fileName: "couch1" },
       { fileName: "couch2" },
@@ -43,7 +43,7 @@ const listings = [
   },
   {
     id: 2,
-    title: "Designer wear shoes",
+    title: "Chaussure de marque",
     images: [{ fileName: "shoes1" }],
     categoryId: 5,
     price: 100,
@@ -55,7 +55,7 @@ const listings = [
   },
   {
     id: 102,
-    title: "Canon 400D (Great Condition)",
+    title: "Canon 400D (Bon état)",
     images: [{ fileName: "camera1" }],
     price: 300,
     categoryId: 3,
@@ -67,7 +67,7 @@ const listings = [
   },
   {
     id: 101,
-    title: "Nikon D850 for sale",
+    title: "Nikon D850 à vendre",
     images: [{ fileName: "camera2" }],
     price: 350,
     categoryId: 3,
@@ -79,8 +79,8 @@ const listings = [
   },
   {
     id: 4,
-    title: "Sectional couch - Delivery available",
-    description: "No rips no stains no odors",
+    title: "Canapé sectionnel - Livraison disponible",
+    description: "Pas de déchirures, pas de taches, pas d'odeurs",
     images: [{ fileName: "couch3" }],
     categoryId: 1,
     price: 950,
@@ -92,7 +92,7 @@ const listings = [
   },
   {
     id: 6,
-    title: "Brown leather shoes",
+    title: "Chaussures en cuir marron",
     images: [{ fileName: "shoes2" }],
     categoryId: 5,
     price: 50,

@@ -1,35 +1,35 @@
 const categories = [
   {
     id: 1,
-    name: "Furniture",
+    name: "Meubles",
     icon: "floor-lamp",
     backgroundColor: "#fc5c65",
     color: "white"
   },
   {
     id: 2,
-    name: "Cars",
+    name: "Voitures",
     icon: "car",
     backgroundColor: "#fd9644",
     color: "white"
   },
   {
     id: 3,
-    name: "Cameras",
+    name: "Appareils photo",
     icon: "camera",
     backgroundColor: "#fed330",
     color: "white"
   },
   {
     id: 4,
-    name: "Games",
+    name: "Jeux",
     icon: "cards",
     backgroundColor: "#26de81",
     color: "white"
   },
   {
     id: 5,
-    name: "Clothing",
+    name: "Vêtements",
     icon: "shoe-heel",
     backgroundColor: "#2bcbba",
     color: "white"
@@ -43,21 +43,21 @@ const categories = [
   },
   {
     id: 7,
-    name: "Movies & Music",
+    name: "Films & musique",
     icon: "headphones",
     backgroundColor: "#4b7bec",
     color: "white"
   },
   {
     id: 8,
-    name: "Books",
+    name: "Livres",
     icon: "book-open-variant",
     backgroundColor: "#a55eea",
     color: "white"
   },
   {
     id: 9,
-    name: "Other",
+    name: "Autres",
     icon: "application",
     backgroundColor: "#778ca3",
     color: "white"

@@ -3,7 +3,7 @@ const messages = [
     fromUserId: 2,
     toUserId: 1,
     listingId: 1,
-    content: "Is this still available?",
+    content: "Le produit est t'il toujours disponible ?",
     id: 1,
     dateTime: 1586044521956
   },
@@ -11,7 +11,7 @@ const messages = [
     fromUserId: 2,
     toUserId: 1,
     listingId: 1,
-    content: "I'm interested in this item. Do you provide free delivery?",
+    content: "Je suis intéressé par cet article. Offrez-vous la livraison gratuite ?",
     id: 2,
     dateTime: 1586044521956
   },
@@ -19,7 +19,7 @@ const messages = [
     fromUserId: 2,
     toUserId: 1,
     listingId: 1,
-    content: "Please give me a call and we'll arrange this for you.",
+    content: "S'il vous plaît appelez-moi et nous organiserons cela pour vous..",
     id: 3,
     dateTime: 1586044521956
   }
